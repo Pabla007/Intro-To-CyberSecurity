@@ -1,0 +1,1 @@
+**Securing a Business Network:** Hired to Secure The broken Windows 10 Pc used at my Friends Business: Joe's Auto Body where i was given a virtual image of Joe's Auto Body's PC which is the actual computer OS in use. I was asked to figure out that's wrong with it and make changes to fix and secure it.

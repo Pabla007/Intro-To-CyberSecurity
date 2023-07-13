@@ -1,0 +1,3 @@
+**SwiftTech’s Report:** You are hired as a Cybersecurity GRC Analyst where we will apply the skills you have acquired data provided about a fictional technology company and create fundamental components of the company's GRC program.
+
+In particular, you will identify potentially relevant compliance obligations, modify a risk management policy to meet the company’s specific needs, assess risks apparent in the company’s infrastructure leveraging common risk management frameworks, and develop governance activities to ensure security controls are operating as expected.
