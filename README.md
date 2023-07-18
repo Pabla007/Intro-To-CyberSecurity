@@ -3,7 +3,7 @@ This repo contains all the projects related to this nano degree.
 
 **Projects**
 
-**Securing a Business Network:** Hired to Secure The broken Windows 10 Pc used at my Friends Business: Joe's Auto Body where I was given a virtual image of Joe's Auto Body's PC which is the actual computer OS in use. I was asked to figure out what was wrong with it and make changes to fix and secure it.
+**[Securing a Business Network:](https://github.com/Pabla007/Intro-To-CyberSecurity/tree/main/Intro%20To%20CyberSecurity/Securing%20a%20Business%20Network)** Hired to Secure The broken Windows 10 Pc used at my Friends Business: Joe's Auto Body where I was given a virtual image of Joe's Auto Body's PC which is the actual computer OS in use. I was asked to figure out what was wrong with it and make changes to fix and secure it.
 
 **Monitoring and Securing the DFI Environment:**  Douglas Financials Inc hired Me for a Security Analyst position (i.e., their first InfoSec employee) where they have given me the required resources to complete my first 2-Weeks assignments.
 
